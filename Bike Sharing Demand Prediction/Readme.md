@@ -32,15 +32,15 @@ jupyter notebook "Bike Sharing Demand Prediction.ipynb"
 ```
 4. Run the notebook cell by cell to:
 
-Explore the dataset
+   Explore the dataset
 
-Perform feature engineering (e.g., extract hour, day, weekday)
+   Perform feature engineering (e.g., extract hour, day, weekday)
 
-Train regression models (like Linear Regression, Random Forest, or XGBoost)
+   Train regression models (like Linear Regression, Random Forest, or XGBoost)
 
-Evaluate predictions (using RMSE or R²)
+   Evaluate predictions (using RMSE or R²)
 
-Make final predictions on the test set
+   Make final predictions on the test set
 
 ## 📊 Key Features Extracted
 hour, day, month, year from datetime
