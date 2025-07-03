@@ -43,7 +43,7 @@ jupyter notebook "Human Action Detection.ipynb"
    View key insights from model coefficients
 
 ## 🧠 Model Summary
-Model Used: Losistic Regression
+Model Used: Losistic Regression and KNN (K-Nearest Neighbors)
 
 Preprocessing:
 
